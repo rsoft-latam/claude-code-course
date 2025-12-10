@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwright",
+      "Bash(xargs cat:*)",
+      "Bash(npm test:*)",
+      "Bash(npm audit:*)",
+      "Bash(claude mcp add:*)",
+      "Bash(lsof:*)",
+      "Bash(open http://localhost:3000)",
+      "Bash(npm run dev:*)"
+    ]
+  }
+}
